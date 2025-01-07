@@ -10,7 +10,7 @@
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url" : "Kamakshisharma1/main-repo/blob/main/AdventureWorks_Customers.csv",
+        "p_rel_url" : "Kamakshisharma1/main-repo/refs/heads/main/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     },
